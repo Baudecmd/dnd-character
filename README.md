@@ -66,6 +66,3 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
-# dnd-characters
-# dnd-characterssss
-# dnd-character
